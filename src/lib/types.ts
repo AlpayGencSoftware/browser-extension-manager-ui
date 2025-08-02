@@ -6,4 +6,4 @@ export type Extention = {
     isActive: boolean
 }
 
- 
+export type Filter = "all" | "active" | "inactive"

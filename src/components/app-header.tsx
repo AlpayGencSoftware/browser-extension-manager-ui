@@ -1,4 +1,3 @@
-import React from 'react'
 import AppLogo from './app-logo'
 import ThemeToggle from './theme-toggle'
 
